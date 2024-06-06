@@ -1,4 +1,4 @@
-This repository is a reproduction of [libp2p/rust-libp2p#5442](https://github.com/libp2p/rust-libp2p/pull/5442)
+This repository is a reproduction of [libp2p/rust-libp2p#5442](https://github.com/libp2p/rust-libp2p/pull/5442).
 
 ## Components
 
