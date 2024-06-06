@@ -29,7 +29,7 @@ Browse to the URL that is printed by the `wasm-pack`. If the output of the page
 is stuck on `running 1 test` then the bug was reproduced. You can open browser's
 console to view the crash.
 
-> NOTE: If you get `Failed to fetch` error display in the page, then you forgot
+> NOTE: If you get `Failed to fetch` error displayed in the page, then you forgot
 > to start `bad-peer`.
 
 ![screenshot](files/screenshot.png)
